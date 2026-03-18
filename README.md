@@ -44,5 +44,4 @@ python aircursor_final.py
 
 A camera preview window will appear in the bottom right corner of your screen. Press the `ESC` key while the window is focused to close the application.
 
-
-(Created on 14 July 2025, Deployed on GitHub on  18 February 2026)
+(Project initiated on July 14, 2025 • Published on GitHub on March 18, 2026)
