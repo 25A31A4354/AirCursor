@@ -1,4 +1,4 @@
-8# AirCursor
+# AirCursor
 
 Control your computer's cursor using hand gestures in the air! This project uses OpenCV, MediaPipe, and PyAutoGUI to track your hand movements through your webcam and translate them into mouse actions.
 
@@ -44,7 +44,7 @@ python aircursor_final.py
 
 A camera preview window will appear in the bottom right corner of your screen. Press the `ESC` key while the window is focused to close the application.
 
-##Watch the project in action:
+## Watch the project in action:
 
 https://youtube.com/shorts/z6dlDn5EacI?si=smArHhGduD0Qsq1P
 
